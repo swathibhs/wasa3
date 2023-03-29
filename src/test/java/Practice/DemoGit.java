@@ -7,6 +7,6 @@ public class DemoGit {
 	@Test
 	public void sample()
 	{
-        System.out.println("Hi");
+        System.out.println("welcome");
 }
 }
